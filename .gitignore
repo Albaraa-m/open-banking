@@ -1,0 +1,6 @@
+frontend
+.pre-commit-config.yaml
+.vscode
+.cursor
+.env
+__pycache__
