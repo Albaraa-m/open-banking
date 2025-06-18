@@ -4,3 +4,4 @@ frontend
 .cursor
 .env
 __pycache__
+banking.db
