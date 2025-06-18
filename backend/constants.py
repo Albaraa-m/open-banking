@@ -6,4 +6,4 @@ LEAN_ENDPOINTS = {
     "accounts": f"{LEAN_SANDBOX_BASE_URL}/data/v2/accounts",
 }
 
-DATABASE_URL = "sqlite///banking.db"
+DATABASE_URL = "sqlite:///banking.db"
